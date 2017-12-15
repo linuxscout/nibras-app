@@ -63,7 +63,7 @@ Accounts  |[@Facebook](http://facebook.com/studentnibras) [@Sourceforge](http://
     بالجزائر](http://esidzstudentdic.sourceforge.net)
 -   [دليل المصطلحات في المكتبية والتجهيزات والوسائل والتسيير المالي، من
 المجلس الأعلى للغة العربية](http://hclalexique.sourceforge.net)
--   **اكتشف المزيد عن مشاريعنا ....**
+-   [**اكتشف المزيد عن مشاريعنا ....**](http://tahadz.com)
 
 ------------------------------------------------------------------------
 
