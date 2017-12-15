@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guide_Etudiant_Nibras</string>
+    <string name="btn_langage">FRENÇAIS</string>
+    <string name="btn_diconnaire"><b>DICTIONNAIRE</b></string>
+    <string name="btn_calcule_moyenne">CALCULE MOYENNE</string>
+    <string name="btn_information">INFORMATION</string>
+    <string name="btn_apropos">A PROPOS</string>
+    <string name="btn_recherche_avancee">RECHERCHE AVANCEE</string>
+
+    <string name="semestre">Semestre</string>
+
+    <!-- ...................
+     FILIERE EN FRANCAIS
+     ........................-->
+    <string name="mi">Mathematique et Infromatique &quot;MI&quot;</string>
+    <string name="st">Science et Technologie &quot;ST&quot;</string>
+    <string name="sm">Science De La Matiere &quot;SM&quot;</string>
+
+
+    <!-- .....................................
+    Programme MI semeste 1 en français
+    ...........................................-->
+    <string name="analyse1">Anlyse1 (coeff 4) \t\t\t\t</string>
+    <string name="algebre1">Algebre1 (coeff 2) \t\t\t\t</string>
+    <string name="algorithme">Algorithme (coeff 4) \t\t\t\t</string>
+    <string name="francais">Français (coeff 1) \t\t\t\t</string>
+    <string name="tp_bueautique">Bureautique (coeff 1) \t\t\t\t</string>
+    <string name="codage">Codage (coeff 2) \t\t\t\t</string>
+    <string name="economie">Economie (coeff 2) \t\t\t\t</string>
+    <string name="anglais">Anglais (coeff 1) \t\t\t\t</string>
+
+
+    <!-- .................................
+    Programme MI semeste 2 en français
+    ......................................-->
+    <string name="analyse2">Anlyse2 (coeff 2) \t\t\t\t</string>
+    <string name="algebre2">Algebre2 (coeff 2) \t\t\t\t</string>
+    <string name="proba_stat">Proba-Stat (coeff 1) \t\t\t\t</string>
+    <string name="prog_struc_donnee">Prog_Struct_Don (coeff 3) \t\t\t\t</string>
+    <string name="Structure_machine">Structure Machine (coeff 2) \t\t\t\t</string>
+    <string name="tic">TIC (coeff 2) \t\t\t\t</string>
+    <string name="POO">POO (coeff 1) \t\t\t\t</string>
+    <string name="electricite">Electricite (coeff 2) \t\t\t\t</string>
+
+    <!-- .................................
+   Programme ST semeste 1 en français
+   ......................................-->
+    <string name="math1">Math1 (coeff 3) \t\t\t\t</string>
+    <string name="physique1">Physique1 (coeff 3) \t\t\t\t</string>
+    <string name="struc_matiere">Struc_Matiere (coeff 3) \t\t\t\t</string>
+    <string name="informatique1">Informatique1 (coeff 2) \t\t\t\t</string>
+    <string name="tp_physique1">TP physique1 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie1">TP chimie1 (coeff 1) \t\t\t\t</string>
+    <string name="methdo_redac">Methdo Redaction (coeff 1) \t\t\t\t</string>
+    <string name="les_matiere_st1">Les matiere en st1 (coeff 1) \t\t\t\t</string>
+    <string name="fr_en1">FR ou EN 1 (coeff 2) \t\t\t\t</string>
+
+
+    <!-- .................................
+   Programme ST semeste 2 en français
+   ......................................-->
+    <string name="math2">Math2 (coeff 3) \t\t\t\t</string>
+    <string name="physique2">Physique2 (coeff 3) \t\t\t\t</string>
+    <string name="thermodinamique">Thermodinamique (coeff 3) \t\t\t\t</string>
+    <string name="informatique2">Informatique2 (coeff 2) \t\t\t\t</string>
+    <string name="tp_physique2">TP physique2 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie2">TP chimie2 (coeff 1) \t\t\t\t</string>
+    <string name="methdo_present">Methdo Presentation (coeff 1) \t\t\t\t</string>
+    <string name="les_matiere_st2">Les matiere en st2 (coeff 1) \t\t\t\t</string>
+    <string name="fr_en2">FR ou EN 2 (coeff 2) \t\t\t\t</string>
+
+
+    <!-- .................................
+Programme SM semeste 1 en Francias
+......................................-->
+
+    <string name="math_sm1">Mathematique1 (coeff 3) \t\t\t\t</string>
+    <string name="physique_sm1">Physique1 (coeff 3) \t\t\t\t</string>
+    <string name="chimie_sm1">Chimie1 (coeff 3) \t\t\t\t</string>
+    <string name="tp_physique_sm1">Tp Physique1 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie_sm1">Tp Chimie1 (coeff 1) \t\t\t\t</string>
+    <string name="inf_sm1">Informatique1 (coeff 2) \t\t\t\t</string>
+    <string name="decouverte">Decouverte (coeff 1) \t\t\t\t</string>
+    <string name="bio_envr">Biotechnologie ou Environement (coeff 1) \t\t\t\t</string>
+    <string name="langue1">Anglais1 (coeff 1) \t\t\t\t</string>
+
+
+
+    <!-- .................................
+ Programme SM semeste 2 en Francais
+ ......................................-->
+    <string name="math_sm2">Mathematique2 (coeff 3) \t\t\t\t</string>
+    <string name="physique_sm2">Physique2 (coeff 3) \t\t\t\t</string>
+    <string name="chimie_sm2">Chimie2 (coeff 3) \t\t\t\t</string>
+    <string name="tp_physique_sm2">Tp Physique2 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie_sm2">Tp Chimie2 (coeff 1) \t\t\t\t</string>
+    <string name="inf_sm2">Informatique2 (coeff 2) \t\t\t\t</string>
+    <string name="economie_sm">Economie (coeff 1) \t\t\t\t</string>
+    <string name="histoire_sience">Histoire des sience (coeff 1) \t\t\t\t</string>
+    <string name="langue2">Anglais2 (coeff 1) \t\t\t\t</string>
+
+
+
+    <string name="aprpos_nibras"><b><i><u>QU ES QUE C EST :</u></i></b>\nNibras est une application dedier a tout les etudiant de la 1er année
+        \n<b><i><u>QUI SOMME NOUS :</u></i></b>\nDeux etudiants et un professeur\n-Taha Zerrouki (professeur)\n-Bilal Attig\n-Oulmi Mehdi</string>
+
+
+</resources>

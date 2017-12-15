@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نبراس الطالب</string>
+    <string name="btn_langage">عربي</string>
+    <string name="btn_diconnaire"><b>قاموس</b></string>
+    <string name="btn_calcule_moyenne">حساب المعدّل</string>
+    <string name="btn_information">معلومات</string>
+    <string name="btn_apropos">حول</string>
+    <string name="btn_recherche_avancee"> بحث متقدم</string>
+
+    <string name="semestre">السداسي</string>
+
+    <string name="titreTextLmd1"><u>التعريف بنظام ل م د ؟</u></string>
+    <string name="titreTextLmd2"><u>\nكيف يتم تسجيلي  في الأ ل م د  ؟</u></string>
+    <string name="titreTextLmd3"><u>\nما قيمة شهــــادة الأ ل م د  ؟</u></string>
+    <string name="titreTextLmd4"><u>\nمـــاهي وحدة التدريـــس  ؟</u></string>
+    <string name="titreTextLmd5"><u>\nكيف نقـــّوم وحدة التدريس  ؟</u></string>
+    <string name="titreTextLmd6"><u>\nهل عدم إكتسـاب وحدة التدريس يؤثر على مزاولة الدراسة  ؟</u></string>
+    <string name="titreTextLmd7"><u>\nمــــاهو الرصيد  ؟</u></string>
+    <string name="textLmd1">الأ ل م د  أو (ليسانس - ماستر – دكتوراه) هو هيكل للتعليم معمول به تدريجيا في بلادنا منذ سبتمبر 2004.</string>
+    <string name="textLmd2">يمكنكم أن تسجّلوا في نظام الأ ل م د في مؤسسة جامعية تابعة لمحيطكم الجغرافي، مؤهلة في الأل م د، وذالك حسب شعبة البكالوريا المتحصلين عليها، وكذالك حسب المسار (parcours) التي تريدون متابعة تكوينكم فيه.</string>
+    <string name="textLmd3">إن شهادة الأ ل م د هي شهادة معترف بها في كل أقطار العالم,شهادة الليسانس أو الماستر أو الدكتوراه لها صدى عالمي لأن الأ ل م د في ما يخص هيكله أو برامجه متطابق في كل الدول.</string>
+    <string name="text4Lmd">الدراسة في نظام الأ ل م د تحتوي على وحدات دراسية. الوحدة الدراسية مكوّنة من مادة أو مجموعة من المواد. هناك عدة إنواع من الوحدات الدراسية:
+الوحدة الدراسية الأساسية(unité d’enseignement fondamental) التي تحتوي على المواد الأساسية.
+الوحدة الدراسية للإكتشاف(unité d’enseignement de découverte)التي تمكن الطالب أو الطالبة أن يوسع نظرياته ومعرفته، وتساعده في إعادة توجيهه.
+الوحدة الدراسية للثقافة العامة(unité d’enseignement transversal)التي تحتوي على مواد اللغات الحية، وكذالك مواد تكنولوجية الإعلام والإتصال وغيرها.
+الوحدة الدراسية تابعة لسداسي معين، وتتم فيه دراستها.</string>
+    <string name="text5Lmd">الوحدة الدراسية تحتوي على معدل(moyenne) و أرصدة (crédits). المعدل يؤكد إكتساب الوحدة الدراسية أو لا ، القروض تدخل في إنشاء رسملة رصيد الوحدة الدراسية.</string>
+    <string name="text6Lmd">هذا مرتبط بمجموع الأرصدة المحصل عليها في السداسي الأول والسداسي الثاني. إذا كان هذا يساوي أو يتجاوز 30.
+يمكن للطالب، بعد موافقة فريق التكوين المرور إلى السنة الثانية بدين يجب تسديده قبل التخرج</string>
+    <string name="text7Lmd">الرصيد هو وحدة قياس الدراسة، يتبع الوحدة الدراسية. الرصيد مرتبط بالعمل البيداغوجي المطلوب من الطالب(دراسة، العمل الفرضي، تربص…)، إذن هو مرتبط بحجم العمل الفردي(travail personnel) وحجم العمل الراهن(travail présentiel) المطلوب من الطالب.
+</string>
+    <string name="aprpos_nibras">ما هو : نبراس هو تطبيق موجه إلى جميع طلبة السنة الأولى
+\n من نحن : طالبين و أستاذ
+\n - طه زروقي (أستاذ)
+\n - بلال عتيق
+\n - مهدي اولمي
+</string>
+
+
+
+    <string name="uef_acuise"> وحدة تعليم أساسية مكتسب  \t\t\t </string>
+    <string name="uef_non_acuise">وحدة تعليم أساسية لا مكتسب \t\t\t</string>
+    <string name="uem_acuise"> وحدة تعليم منهجية مكتسب \t\t\t</string>
+    <string name="uem_non_acuise"> وحدة تعليم منهجية لا مكتسب\t\t\t</string>
+    <string name="ued_acuise">وحدة تعليم إستكشافية مكتسب   \t\t\t</string>
+    <string name="ued_non_acuise">وحدة تعليم إستكشافية لا مكتسب \t\t\t</string>
+    <string name="uet_acuise">وحدة تعليم أفقية مكتسب \t\t\t</string>
+    <string name="uet_non_acuise">وحدة تعليم أفقية لا مكتسب \t\t\t</string>
+
+
+
+    <string name="note">:النقطة  </string>
+
+    <!-- ...................
+     FILIERE EN ARABE
+     ........................-->
+    <string name="mi">رياضيات و إعلام ألي</string>
+    <string name="st">علوم و تكنولوجيا</string>
+    <string name="sm">علوم المادة</string>
+
+
+    <!-- .................
+        PROGRAMME MI 1er Semestre
+    .....................-->
+
+    <string name="uef_mi1">  وحدة تعليم أساسية \n الأرصدة:17\n المعامل:10</string>
+    <string name="uem_mi1">وحدة تعليم منهجية  \n الأرصدة:7\n المعامل:2</string>
+    <string name="ued_mi1">وحدة تعليم إستكشافية  \n الأرصدة:4\n المعامل:4</string>
+    <string name="uet_mi1"> وحدة تعليم أفقية  \n الأرصدة:2\n المعامل:1</string>
+
+    <!-- .................
+        PROGRAMME MI 2eme Semestre
+    .....................-->
+
+    <string name="uef_mi2">  وحدة تعليم أساسية \n الأرصدة:11\n المعامل:5</string>
+    <string name="uem_mi2">وحدة تعليم منهجية  \n الأرصدة:9\n المعامل:5</string>
+    <string name="ued_mi2">وحدة تعليم إستكشافية  \n الأرصدة:7\n المعامل:3</string>
+    <string name="uet_mi2"> وحدة تعليم أفقية  \n الأرصدة:3\n المعامل:3</string>
+
+
+    <!-- .................................
+    Programme MI semeste 2 en français
+    ......................................-->
+    <string name="analyse1"> \t\t\t\t تحليل 1 (المعامل 4)</string>
+    <string name="algebre1"> \t\t\t\tجبر 1 (المعامل 2)</string>
+    <string name="algorithme"> \t\t\t\t الخوارزميات (المعامل 4)</string>
+    <string name="francais">  \t\t\t\t لغة فرنسية (المعامل 1)</string>
+    <string name="tp_bueautique">  \t\t\t\t أعمال تطبقية مكتبية (المعامل 1)</string>
+    <string name="codage">  \t\t\t\t تشفير و تمثيل المعلومات (المعامل 2)</string>
+    <string name="economie">  \t\t\t\t إقتصاد المؤسسة (المعامل 2)</string>
+    <string name="anglais">  \t\t\t\t لغة إنجليزية (المعامل 1)</string>
+
+    <!-- .................................
+    Programme MI semeste 2 en français
+    ......................................-->
+    <string name="analyse2"> \t\t\t\t تحليل 2 (المعامل 2) </string>
+    <string name="algebre2"> \t\t\t\tجبر 2 (المعامل 2)</string>
+    <string name="proba_stat"> \t\t\t\tالإحتمال و الإحصاء (المعامل 1)</string>
+    <string name="prog_struc_donnee">  \t\t\t\t البرمجة وتركيب (المعامل 3)</string>
+    <string name="Structure_machine">  \t\t\t\tهندسة الحاسوب  (المعامل 2)</string>
+    <string name="tic">  \t\t\t\tالمعلومات و الإتصال  (المعامل 2)</string>
+    <string name="POO">  \t\t\t\tالبرمجة الموجهة  (المعامل 1)</string>
+    <string name="electricite">  \t\t\t\tالكهرباء  (المعامل 2)</string>
+
+
+    <!-- .................
+        PROGRAMME ST 1er Semestre
+    .....................-->
+
+    <string name="uef_st1">  وحدة تعليم أساسية \n الأرصدة:18\n المعامل:9</string>
+    <string name="uem_st1">وحدة تعليم منهجية  \n الأرصدة:9\n المعامل:5</string>
+    <string name="ued_st1">وحدة تعليم إستكشافية  \n الأرصدة:1\n المعامل:1</string>
+    <string name="uet_st1"> وحدة تعليم أفقية  \n الأرصدة:2\n المعامل:2</string>
+
+    <!-- .................
+        PROGRAMME ST 2eme Semestre
+    .....................-->
+
+    <string name="uef_st2">  وحدة تعليم أساسية \n الأرصدة:18\n المعامل:9</string>
+    <string name="uem_st2">وحدة تعليم منهجية  \n الأرصدة:9\n المعامل:5</string>
+    <string name="ued_st2">وحدة تعليم إستكشافية  \n الأرصدة:1\n المعامل:1</string>
+    <string name="uet_st2"> وحدة تعليم أفقية  \n الأرصدة:2\n المعامل:2</string>
+
+
+
+    <!-- .................................
+ Programme ST semeste 1 en Arabe
+ ......................................-->
+    <string name="math1"> \t\t\t\t رياضيات1 (المعامل 3)</string>
+    <string name="physique1"> \t\t\t\t فيزياء1 (المعامل 3)</string>
+    <string name="struc_matiere"> \t\t\t\t بنية المادة (المعامل 3)</string>
+    <string name="informatique1"> \t\t\t\t إعلام ألي1 (المعامل 2)</string>
+    <string name="tp_physique1"> \t\t\t\t أعمال تطبقية فيزياء1 (المعامل 1)</string>
+    <string name="tp_chimie1"> \t\t\t\t أعمال تطبقية كيمياء1 (المعامل 1)</string>
+    <string name="methdo_redac"> \t\t\t\t منهجية الكتابة (المعامل 1)</string>
+    <string name="les_matiere_st1"> \t\t\t\t مهن في علوم و تكنولوجيا1 (المعامل 1)</string>
+    <string name="fr_en1"> \t\t\t\tفرنسية أو إنجليزية 1 (المعامل 2)</string>
+
+
+    <!-- .................................
+   Programme ST semeste 2 en Arabe
+   ......................................-->
+    <string name="math2"> \t\t\t\t رياضيات2 (المعامل 3)</string>
+    <string name="physique2"> \t\t\t\t فيزياء2 (المعامل 3)</string>
+    <string name="thermodinamique"> \t\t\t\t دينمكية الحرارية (المعامل 3)</string>
+    <string name="informatique2"> \t\t\t\t إعلام ألي2 (المعامل 2)</string>
+    <string name="tp_physique2"> \t\t\t\t أعمال تطبقية فيزياء2 (المعامل 1)</string>
+    <string name="tp_chimie2"> \t\t\t\t أعمال تطبقية كيمياء2 (المعامل 1)</string>
+    <string name="methdo_present"> \t\t\t\t تحليل 1 (المعامل 1)</string>
+    <string name="les_matiere_st2"> \t\t\t\t منهجية العر ض (المعامل 1))</string>
+    <string name="fr_en2"> \t\t\t\tفرنسية أو إنجليزية 2 (المعامل 2)</string>
+
+
+    <!-- .................
+      PROGRAMME SM 1er Semestre
+  .....................-->
+
+    <string name="uef_sm1">  وحدة تعليم أساسية \n الأرصدة:18\n المعامل:9</string>
+    <string name="uem_sm1">وحدة تعليم منهجية  \n الأرصدة:8\n المعامل:4</string>
+    <string name="ued_sm1">وحدة تعليم إستكشافية  \n الأرصدة:2\n المعامل:1</string>
+    <string name="uet_sm1"> وحدة تعليم أفقية  \n الأرصدة:2\n المعامل:1</string>
+
+    <!-- .................
+        PROGRAMME SM 2eme Semestre
+    .....................-->
+
+    <string name="uef_sm2">  وحدة تعليم أساسية \n الأرصدة:18\n المعامل:9</string>
+    <string name="uem_sm2">وحدة تعليم منهجية  \n الأرصدة:8\n المعامل:4</string>
+    <string name="ued_sm2">وحدة تعليم إستكشافية  \n الأرصدة:2\n المعامل:2</string>
+    <string name="uet_sm2"> وحدة تعليم أفقية  \n الأرصدة:2\n المعامل:1</string>
+
+
+
+    <!-- .................................
+ Programme SM semeste 1 en Arabe
+ ......................................-->
+    <string name="math_sm1"> \t\t\t\t رياضيات1 (المعامل 3)</string>
+    <string name="physique_sm1"> \t\t\t\t فيزياء1 (المعامل 3)</string>
+    <string name="chimie_sm1"> \t\t\t\t كيمياء1 (المعامل 3)</string>
+    <string name="tp_physique_sm1"> \t\t\t\t أعمال تطبقية فيزياء1 (المعامل 1)</string>
+    <string name="tp_chimie_sm1"> \t\t\t\t أعمال تطبقية كيمياء1 (المعامل 1)</string>
+    <string name="inf_sm1"> \t\t\t\t إعلام ألي1 (المعامل 2)</string>
+    <string name="decouverte"> \t\t\t\t إستكشاف (المعامل 1)</string>
+    <string name="bio_envr">  \t\t\t\t  بيوتكنولوجيا أو علوم المحيط(المعامل 1)</string>
+    <string name="langue1">  \t\t\t\t لغة إنجليزية 2 (المعامل 1)</string>
+
+
+    <!-- .................................
+   Programme SM semeste 2 en Arabe
+   ......................................-->
+    <string name="math_sm2"> \t\t\t\t رياضيات1 (المعامل 3)</string>
+    <string name="physique_sm2"> \t\t\t\t فيزياء2 (المعامل 3)</string>
+    <string name="chimie_sm2"> \t\t\t\t كيمياء2 (المعامل 3)</string>
+    <string name="tp_physique_sm2"> \t\t\t\t أعمال تطبقية فيزياء1 (المعامل 1)</string>
+    <string name="tp_chimie_sm2"> \t\t\t\t أعمال تطبقية كيمياء2 (المعامل 1)</string>
+    <string name="inf_sm2"> \t\t\t\t إعلام ألي2 (المعامل 2)</string>
+    <string name="economie_sm">  \t\t\t\t إقتصاد المؤسسة (المعامل 1)</string>
+    <string name="histoire_sience">  \t\t\t\t تاريخ العلوم (المعامل 1)</string>
+    <string name="langue2">  \t\t\t\t لغة إنجليزية 2 (المعامل 1)</string>
+
+</resources>

@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">Nibras_Student_Guide</string>
+    <string name="btn_langage">ENGLISH</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_diconnaire"><b>DICTIONNAIRY</b></string>
+    <string name="btn_calcule_moyenne">CALCULATE AVERAGE</string>
+    <string name="btn_information">INFORMATION</string>
+    <string name="btn_apropos">ABOUT</string>
+    <string name="btn_recherche_avancee">RECHERCHE AVANCEE</string>
+
+
+    <string name="titreTextLmd1"><u>-QU EST CE QUE C EST QUE LE LMD?</u></string>
+    <string name="titreTextLmd2"><u>\n-QUELLE EST LA VALEUR D UN DIPLOME LMD ?</u></string>
+    <string name="titreTextLmd3"><u>\n-QU EST CE QU UNE UNITE D ENSEIGNEMENT ?</u></string>
+    <string name="titreTextLmd4"><u>\n-COMMENT EVALUER UNE UE ?</u></string>
+    <string name="titreTextLmd5"><u>\n-MAIS C EST QUOI DONC UN CREDIT ?</u></string>
+    <string name="titreTextLmd6"><u>\n-ET SI L UNE N EST PAS ACQUISE ?</u></string>
+    <string name="titreTextLmd7"><u>\n-COMBIEN DE CREDITS FAUT IL TOTALISER POUR AVOIR LA LICENCE?</u></string>
+    <string name="textLmd1">Le LMD Licence-Master-Doctorat, représente une architecture d’enseignement supérieur inspirée de celle en vigueur dans les pays anglo-saxons. Généralisées dans les pays industrialisés, ce système a été mis en place depuis septembre 2004</string>
+    <string name="textLmd2">C’est un diplôme labellisé comme étant un diplôme de référence international.
+Il permet donc à son détenteur de le faire valoir partout dans le monde ou le MLD est en vigueur : le système LMD  est  pratiquement identique tant sur le plan de l’architecture que celui des contenus des programmes dans tous les pays qui l’appliquent.</string>
+    <string name="textLmd3">Les enseignements en LMD sont organisés en unités d’enseignements « UE »
+Une UE est un ensemble de matières choisies pour leur cohérences, on peut citer plusieurs types d’UE :
+Les UE fondamentales qui regroupent les enseignements de base.
+Les UE de Découverte permettant à l’étudiant de découvrir d’autres disciplines et  de l’aider en cas de réorganisation
+Les UE transversales regroupant des enseignements de langues étrangères, d’informatique,……….pour l’acquisition d’une culture générale et des techniques méthodologiques.</string>
+    <string name="text4Lmd">Une UE est accompagnée d’une moyenne générale et d’un crédit. Ce dernier permettra la capitalisation du nombre de points inhérents à l’UE si elle est acquise.</string>
+    <string name="text5Lmd">Un crédit est une unité de mesure des enseignements (en volume horaire, en importance,…….).
+Chaque UE est accompagnée d’une valeur déterminée appelée crédit, elle est définie en fonction du travail à effectuer par l’étudiant (enseignement, travail personnel, stage, mémoire,….).
+Un crédit correspond donc au volume de travail présenetiel et au volume de travail personnel que l’étudiant aura à effectuer.</string>
+    <string name="text6Lmd">Si l’UE n’est pas acquise, l’étudiant aura la possibilité de l’acquérir en session de rattrapage.
+Si l’UE n’est toujours pas acquise, elle sera reprise totalement ou partiellement l’année d’après par l’étudiant</string>
+    <string name="text7Lmd">Un semestre comprend 30 crédits, une licence se prépare en six semestres d’études donc pour avoir la licence il faut totaliser 180 crédits…</string>
+
+
+
+
+    <string name="uef_acuise">\t\t\tUE Fondamentale acquis"</string>
+    <string name="uef_non_acuise">\t\t\tUE Fondamentale non acquis"</string>
+    <string name="uem_acuise">\t\t\tUE Méthodologique acquis"</string>
+    <string name="uem_non_acuise">\t\t\tUE Méthodologique non acquis"</string>
+    <string name="ued_acuise">\t\t\tUE Découverte acquis"</string>
+    <string name="ued_non_acuise">\t\t\tUE Découverte non acquis"</string>
+    <string name="uet_acuise">\t\t\tUE Transversale acquis"</string>
+    <string name="uet_non_acuise">\t\t\tUE Transversale non acquis"</string>
+
+
+
+    <string name="note"> NOTE : </string>
+    <string name="semestre">Semestre</string>
+
+    <!-- ...................
+    FILIERE EN ANGLAIS
+    ........................-->
+    <string name="mi">Mathematique et Infromatique &quot;MI&quot;</string>
+    <string name="st">Science et Technologie &quot;ST&quot;</string>
+    <string name="sm">Science De La Matiere &quot;SM&quot;</string>
+
+
+
+
+<!-- .................
+    PROGRAMME MI 1er Semestre
+.....................-->
+
+    <string name="uef_mi1"> UE Fondamentale\n Crédits:17\n Coefficents:10</string>
+    <string name="uem_mi1"> UE Méthodologique\n Crédits:7\n Coefficents:2</string>
+    <string name="ued_mi1"> UE Découverte\n Crédits:4\n Coefficents:4</string>
+    <string name="uet_mi1"> UE Transversale\n Crédits:2\n Coefficents:1</string>
+
+    <!-- .................
+        PROGRAMME MI 2eme Semestre
+    .....................-->
+
+    <string name="uef_mi2"> UE Fondamentale\n Crédits:11\n Coefficents:5</string>
+    <string name="uem_mi2"> UE Méthodologique\n Crédits:9\n Coefficents:5</string>
+    <string name="ued_mi2"> UE Découverte\n Crédits:7\n Coefficents:3</string>
+    <string name="uet_mi2"> UE Transversale\n Crédits:3\n Coefficents:3</string>
+
+    <!-- .................................
+ Programme MI semeste 1 en Anglais sois disant :p
+ ......................................-->
+
+    <string name="analyse1">Anlyse1 (coeff 4) \t\t\t\t</string>
+    <string name="algebre1">Algebre1 (coeff 2) \t\t\t\t</string>
+    <string name="algorithme">Algorithme (coeff 4) \t\t\t\t</string>
+    <string name="francais">Français (coeff 1) \t\t\t\t</string>
+    <string name="tp_bueautique">Bureautique (coeff 1) \t\t\t\t</string>
+    <string name="codage">Codage (coeff 2) \t\t\t\t</string>
+    <string name="economie">Economie (coeff 2) \t\t\t\t</string>
+    <string name="anglais">Anglais (coeff 1) \t\t\t\t</string>
+
+
+    <!-- .................................
+ Programme MI semeste 2 en Anglais sois disant :p
+ ......................................-->
+    <string name="analyse2">Anlyse2 (coeff 2) \t\t\t\t</string>
+    <string name="algebre2">Algebre2 (coeff 2) \t\t\t\t</string>
+    <string name="proba_stat">Proba-Stat (coeff 1) \t\t\t\t</string>
+    <string name="prog_struc_donnee">Prog_Struct_Don (coeff 3) \t\t\t\t</string>
+    <string name="Structure_machine">Structure Machine (coeff 2) \t\t\t\t</string>
+    <string name="tic">TIC (coeff 2) \t\t\t\t</string>
+    <string name="POO">POO (coeff 1) \t\t\t\t</string>
+    <string name="electricite">Electricite (coeff 2) \t\t\t\t</string>
+
+
+    <!-- .................
+    PROGRAMME ST 1er Semestre
+.....................-->
+
+    <string name="uef_st1"> UE Fondamentale\n Crédits:18\n Coefficents:9</string>
+    <string name="uem_st1"> UE Méthodologique\n Crédits:9\n Coefficents:5</string>
+    <string name="ued_st1"> UE Découverte\n Crédits:1\n Coefficents:1</string>
+    <string name="uet_st1"> UE Transversale\n Crédits:2\n Coefficents:2</string>
+
+    <!-- .................
+        PROGRAMME ST 2eme Semestre
+    .....................-->
+
+    <string name="uef_st2"> UE Fondamentale\n Crédits:18\n Coefficents:9</string>
+    <string name="uem_st2"> UE Méthodologique\n Crédits:9\n Coefficents:5</string>
+    <string name="ued_st2"> UE Découverte\n Crédits:7\n Coefficents:3</string>
+    <string name="uet_st2"> UE Transversale\n Crédits:3\n Coefficents:3</string>
+
+
+    <!-- .................................
+    Programme ST semeste 1 en français
+    ......................................-->
+    <string name="math1">Math1 (coeff 3) \t\t\t\t</string>
+    <string name="physique1">Physique1 (coeff 3) \t\t\t\t</string>
+    <string name="struc_matiere">Struc_Matiere (coeff 3) \t\t\t\t</string>
+    <string name="informatique1">Informatique1 (coeff 2) \t\t\t\t</string>
+    <string name="tp_physique1">TP physique1 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie1">TP chimie1 (coeff 1) \t\t\t\t</string>
+    <string name="methdo_redac">Methdo Redaction (coeff 1) \t\t\t\t</string>
+    <string name="les_matiere_st1">Les matiere en st1 (coeff 1) \t\t\t\t</string>
+    <string name="fr_en1">FR ou EN 1 (coeff 2) \t\t\t\t</string>
+
+
+    <!-- .................................
+   Programme ST semeste 2 en français
+   ......................................-->
+    <string name="math2">Math2 (coeff 3) \t\t\t\t</string>
+    <string name="physique2">Physique2 (coeff 3) \t\t\t\t</string>
+    <string name="thermodinamique">Thermodinamique (coeff 3) \t\t\t\t</string>
+    <string name="informatique2">Informatique2 (coeff 2) \t\t\t\t</string>
+    <string name="tp_physique2">TP physique2 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie2">TP chimie2 (coeff 1) \t\t\t\t</string>
+    <string name="methdo_present">Methdo Presentation (coeff 1) \t\t\t\t</string>
+    <string name="les_matiere_st2">Les matiere en st2 (coeff 1) \t\t\t\t</string>
+    <string name="fr_en2">FR ou EN 2 (coeff 2) \t\t\t\t</string>
+
+
+    <!-- .................
+    PROGRAMME SM 1er Semestre
+.....................-->
+
+    <string name="uef_sm1"> UE Fondamentale\n Crédits:18\n Coefficents:9</string>
+    <string name="uem_sm1"> UE Méthodologique\n Crédits:8\n Coefficents:4</string>
+    <string name="ued_sm1"> UE Découverte\n Crédits:2\n Coefficents:1</string>
+    <string name="uet_sm1"> UE Transversale\n Crédits:2\n Coefficents:1</string>
+
+    <!-- .................
+        PROGRAMME SM 2eme Semestre
+    .....................-->
+
+    <string name="uef_sm2"> UE Fondamentale\n Crédits:18\n Coefficents:9</string>
+    <string name="uem_sm2"> UE Méthodologique\n Crédits:8\n Coefficents:4</string>
+    <string name="ued_sm2"> UE Découverte\n Crédits:2\n Coefficents:2</string>
+    <string name="uet_sm2"> UE Transversale\n Crédits:2\n Coefficents:1</string>
+
+    <!-- .................................
+ Programme SM semeste 1 en Anglais sois disant :p
+ ......................................-->
+
+    <string name="math_sm1">Mathematique1 (coeff 3) \t\t\t\t</string>
+    <string name="physique_sm1">Physique1 (coeff 3) \t\t\t\t</string>
+    <string name="chimie_sm1">Chimie1 (coeff 3) \t\t\t\t</string>
+    <string name="tp_physique_sm1">Tp Physique1 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie_sm1">Tp Chimie1 (coeff 1) \t\t\t\t</string>
+    <string name="inf_sm1">Informatique1 (coeff 2) \t\t\t\t</string>
+    <string name="decouverte">Decouverte (coeff 1) \t\t\t\t</string>
+    <string name="bio_envr">Biotechnologie ou Environement (coeff 1) \t\t\t\t</string>
+    <string name="langue1">Anglais1 (coeff 1) \t\t\t\t</string>
+
+
+
+    <!-- .................................
+ Programme SM semeste 2 en Anglais sois disant :p
+ ......................................-->
+    <string name="math_sm2">Mathematique2 (coeff 3) \t\t\t\t</string>
+    <string name="physique_sm2">Physique2 (coeff 3) \t\t\t\t</string>
+    <string name="chimie_sm2">Chimie2 (coeff 3) \t\t\t\t</string>
+    <string name="tp_physique_sm2">Tp Physique2 (coeff 1) \t\t\t\t</string>
+    <string name="tp_chimie_sm2">Tp Chimie2 (coeff 1) \t\t\t\t</string>
+    <string name="inf_sm2">Informatique2 (coeff 2) \t\t\t\t</string>
+    <string name="economie_sm">Economie (coeff 1) \t\t\t\t</string>
+    <string name="histoire_sience">Histoire des sience (coeff 1) \t\t\t\t</string>
+    <string name="langue2">Anglais2 (coeff 1) \t\t\t\t</string>
+
+
+
+
+
+
+
+
+    <string name="aprpos_nibras"><b><i><u>QU ES QUE C EST :</u></i></b>\nNibras est une application dedier a tout les etudiant de la 1er année
+        \n<b><i><u>QUI SOMME NOUS :</u></i></b>\nDeux etudiants et un professeur\n-Taha Zerrouki (professeur)\n-Bilal Attig\n-Oulmi Mehdi</string>
+
+
+</resources>
