@@ -10,9 +10,9 @@ Nibras: a technical terms dictionary for Students
 
 Features |   value
 ---------|---------------------------------------------------------------------------------
-Authors  | [Authors.md](https://github.com/linuxscout/nibras-app/master/AUTHORS.md)
+Authors  | [Authors.md](https://github.com/linuxscout/nibras-app/AUTHORS.md)
 Release  | 0.2
-License  |[GPL](https://github.com/linuxscout/nibras-app/master/LICENSE)
+License  |[GPL](https://github.com/linuxscout/nibras-app/LICENSE)
 Tracker  |[linuxscout/nibras-app/Issues](https://github.com/linuxscout/nibras-app/issues)
 Website  |[Nibras](http://nibras.sourceforge.net)
 Source  |[Github](http://github.com/linuxscout/nibras-app)
@@ -23,13 +23,21 @@ Accounts  |[@Facebook](http://facebook.com/studentnibras) [@Sourceforge](http://
 نبراس، هو دليل موجه إلى طلبة السنة الأولى للشعب التقنية بالجامعة، ويحتوي على أهم المصطلحات والمفردات إلى يصادفها في البرنامج الدراسي خلال هذه السنة المهمة. ويحوي هذا المعجم على أزيد من 2160 مصطلح، نحاول بها أن نغطي مجالات الشعب التقنية في السنة الأولى جامعي. 
 
 الدليل يأتي في أشكال متنوعة أحدهما برنامج للبحث في المصطلحات، كما يسمح باقتراح مصطلحات جديدة.
+
+
 ![صورة البرنامج](images/nibras.png)
 
+
 ,تطبيق اندرويد
+
+
 ![صورة التطبيق](images/app-nibras-bouira1.jpg)
 ![صورة التطبيق](images/app-nibras-bouira2.jpg)
 
+
 وكتاب يمكن للطلبة طبعه والاستفادة منه
+
+
 ![صورة الكتاب](images/techguide.png "techguide")
 
 
