@@ -61,7 +61,7 @@ Accounts  |[@Facebook](http://facebook.com/studentnibras) [@Sourceforge](http://
    للطباعة**](https://sourceforge.net/projects/nibras/files/Nibras-StudentGuideTech0.4-printable.pdf/download)
 - [تحميل المصدر](https://github.com/01walid/Nibras)
 
-### المساهمة {#المساهمة dir="RTL"}
+### المساهمة
 
 يرجى المساهمة في نشر هذا الموقع
 و[الصفحة](https://web.facebook.com/studentnibras/) كي يصل الدليل إلى
